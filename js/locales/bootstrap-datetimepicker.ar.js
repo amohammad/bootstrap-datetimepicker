@@ -1,6 +1,6 @@
 /**
 * Arabic translation for bootstrap-datetimepicker
-* Ala' Mohammad <amohammad@birzeit.ecu>
+* Ala' Mohammad <amohammad@birzeit.edu>
 */
 ;(function($){
 	$.fn.datetimepicker.dates['ar'] = {
